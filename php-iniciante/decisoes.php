@@ -13,6 +13,6 @@ if ($idade >= 18) {
 } else {
     echo "Você só tem $idade anos. Você não pode entrar.";
 }
-
+//Arquivo alterado no windows
 echo PHP_EOL;
 echo "Adeus!";
