@@ -16,4 +16,5 @@ if ($idade >= 18) {
 //Arquivo alterado no windows
 echo PHP_EOL;
 echo "Adeus!";
+echo "gerando conflito";
 //correção de bug na branch bug
