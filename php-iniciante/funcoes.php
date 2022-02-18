@@ -2,7 +2,7 @@
 
 function printMessage($message)
 {
-    echo $message . PHP_EOL;
+    echo $message . "<br>";
 }
 
 function deposit(array $account, float $value)
